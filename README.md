@@ -1,4 +1,4 @@
-### Simple login forma
+# Simple login form
 
 <img src="https://github.com/gregisb/login-form-ract/blob/main/public/login1.png?raw=true" />
 
