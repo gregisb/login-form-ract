@@ -1,3 +1,19 @@
+### Simple login forma
+
+<img src="https://github.com/gregisb/login-form-ract/blob/main/public/login1.png?raw=true" />
+
+Login simples para estudo de estados com useState.
+Email: admin@admin.com
+Password: 123456
+
+-Botão de logout.
+
+# A ser implementado:
+
+- Autenticação
+- Funcionalidades da tela logada.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
